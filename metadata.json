@@ -1,0 +1,7 @@
+{
+  "name": "DO OR DO: A Wonderland of Choice",
+  "description": "A symbolic, ethical, browser-based self-growth game. 100 levels of positive choices, reflection, and minimal aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
